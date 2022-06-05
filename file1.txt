@@ -3,6 +3,7 @@ new files from vsCode
 add new changes
 
 m1 -- Added changes locally
-
+m1 -- this is some change in the line
+m2
 We will see how it merges
 
